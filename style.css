@@ -1,0 +1,86 @@
+.one {
+    background-color: rgb(39, 39, 39);
+    padding-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.logo {
+    color: white;
+    font-size: 36px;
+    margin-left: 20%;
+}
+.menu {
+    display: flex;
+    margin-top: 20px;
+    margin-left: 20%;
+}
+.link {
+    color: white;   
+    font-size: 16px;
+    margin-right: 5px;
+    width: 10%;
+    padding-bottom: 5px;
+}
+.link:hover {
+    border-bottom: 3px solid white;
+    color: white;   
+    font-size: 16px;
+    margin-right: 5px;
+    width: 10%;
+    padding-bottom: 5px;
+}
+.two {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-top: 20px;
+}
+.right {
+    width: 30%;
+    background-color: lightgray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.right h1 {
+    margin: 0px;
+    font-size: 28px;
+}
+.right p {
+    margin: 0px;
+    font-size: 10px;
+}
+.left {
+    width: 70%;
+    margin-right: 10px;
+}
+.left img {
+    width: 100%;
+}
+.three {
+    display: flex;
+    margin-left: 20%;
+    margin-right: 20%;
+    align-items: center;
+    justify-content: space-between;
+}
+hr {
+    width: 30%;
+    height: 0px;
+}
+.three h2 {
+    width: 40%;
+    text-align: center;
+}
+.four {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+table {
+    width: 100%;
+}
+td {
+    border: 1px solid gray;
+}
+.gray {
+    background-color: gray;
+    height: 60px;
+}
